@@ -1,12 +1,12 @@
+## Motivation
+
+Just to have a centralised database for our friend's lore.
+
 ## Stack
 
 - [Remix](https://remix.run) - UI framework (React + SSR)
 - [Prisma](https://prisma.io) - Controller and ORM (Node.js)
 - [Sqlite](https://sqlite.org) - Database (SQL)
-
-## Motivation
-
-Just to have a centralised database for our friend's lore.
 
 ## Development
 
