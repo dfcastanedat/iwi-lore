@@ -2,7 +2,7 @@
 
 - [Remix](https://remix.run) - UI framework (React + SSR)
 - [Prisma](https://prisma.io) - Controller and ORM (Node.js)
-. [Sqlite](https://sqlite.org) - Database (SQL)
+- [Sqlite](https://sqlite.org) - Database (SQL)
 
 ## Motivation
 
